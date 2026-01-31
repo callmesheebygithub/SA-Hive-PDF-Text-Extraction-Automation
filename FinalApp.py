@@ -8,7 +8,7 @@ OUTPUT_FOLDER = "output"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 st.set_page_config(page_title="Invoice Coordinate Extraction", layout="wide")
-st.title("📄 Invoice Coordinate-Based Extraction (Bulk Supported)")
+st.title("📄 SA-Hive-PDF-Text-Extraction-Automation")
 
 # --------------------------------------------------
 # Helper Functions
